@@ -12,7 +12,7 @@
     ├── EnglishNews             # Folder with 7034 EnglishNews
     └── README.md
 
-###3rd party libraries
+### 3rd party libraries
 
 argparse, nltk, os, time, math
 
